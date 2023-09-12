@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">An epic gamer.</h3>
-![Alt text]("https://tenor.com/view/fortnite-funny-dance-fnaf-memes-freddy-gif-24585424")
+![Alt text](https://tenor.com/view/freddy-plush-default-dance-gif-18144576?raw=true "Title")
 
 - 🌱 I’m currently learning **java script, java**
 
