@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **java script, java**
 
-- 💬 Ask me about **don't talk to me**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
